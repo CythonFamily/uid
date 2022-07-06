@@ -1,1 +1,1 @@
-__import__("uidcr3k").vau786()
+__import__("uid").vau786()
